@@ -1,0 +1,4 @@
+.satu{ background-color: aqua;  border:  dotted 10px red; overflow:scroll;}
+.dua { background-color: aqua ; border: solid 10px green; overflow: scroll; }
+.tiga{background-color: aqua;overflow: scroll; border: dashed 15px blue}
+p{ width: 300px ; height: 100px;}
